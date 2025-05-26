@@ -2,7 +2,7 @@ Privacy Policy
 
 Last Updated: [Insert Date]
 
-kaman Cash & POS ("we," "our," or "us") operates the kaman Cash & POS mobile application (the "App"). This Privacy Policy outlines how we collect, use, and protect your information when you use our App. By using the App, you agree to the terms outlined in this policy.
+kaman ( operates the kaman Cash & POS mobile application (the "App"). This Privacy Policy outlines how we collect, use, and protect your information when you use our App. By using the App, you agree to the terms outlined in this policy.
 
 1. Information Collection and Use
 The App does not collect, store, or share any personal information from users. It is designed to fetch and display website content from URLs provided by an API. No additional user data is processed or retained.
